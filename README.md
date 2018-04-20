@@ -1,0 +1,1 @@
+# docker-alpine-oraclejdk8-spark-scala-sbt
