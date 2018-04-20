@@ -2,7 +2,7 @@ docker-alpine-openjdk8-spark-scala-sbt
 ======================================
 This image contains the following softwares:
 
-* Alpine
+* Alpine 3.7
 * OpenJDK 64-Bit v1.8.0_151
 * Scala v2.12.5
 * SBT v1.1.4
